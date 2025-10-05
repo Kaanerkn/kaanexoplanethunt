@@ -5,7 +5,8 @@ The purpose of this project is to use NASA’s open data to identify and filter 
 #Features  
 - Ability to read CSV and Excel files  
 - A scoring system that assigns credit based on how well the data meets specific criteria.
- #Terms You Should Know  
+
+#Terms You Should Know  
 - FA :False Alarm
 - FP :False Positive
 - APC :Ambiguous Planetary Candidate
